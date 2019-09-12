@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d88881879b3d9fe9add946fb53e28e94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\aa7672e7801abbe2390f76108999bcbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\71ba2fa5c892825398b293029a8920b0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8407b2639e011467e1706c3590583e6a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\da547af5415017a8c36caa42d3f34b9a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1c2a7ff8b2701d6303782a7b60c74b8d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c7926b308a9e7f5b7710a43ba7f8e46c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0d513566aa400104db088ca75117846d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\efc51d23883c37c982da82282348b6a5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c317f8d033f3e09469e0142e98b28407\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b2651feb2232a570705a80c56a7c01db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4c4ed0032bfa8ac33a27fdafa37fc7d8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f36a0adde7a07f4e143c1a6af69f6fe2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\487ccae721794c2cc276abe28d7104d1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b0c5d8b4051b3b8eafe62bcc85c5f178\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d6eefab7c439555961a7738a4f23994d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e187a6eb742182af9a91e53711a57f05\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:1-29:12
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\71ba2fa5c892825398b293029a8920b0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\71ba2fa5c892825398b293029a8920b0\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:11:9-51
+	android:icon
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:9:9-40
+	android:allowBackup
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:13:9-40
+activity#org.d3ifcool.kasku.Menu_Activity
+ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:14:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:18:27-74
+provider#org.d3ifcool.kasku.data.KasProvider
+ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:22:9-25:40
+	android:authorities
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:24:13-53
+	android:exported
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml:23:13-45
+uses-sdk
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d88881879b3d9fe9add946fb53e28e94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\d88881879b3d9fe9add946fb53e28e94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\aa7672e7801abbe2390f76108999bcbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\aa7672e7801abbe2390f76108999bcbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\71ba2fa5c892825398b293029a8920b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\71ba2fa5c892825398b293029a8920b0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8407b2639e011467e1706c3590583e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\8407b2639e011467e1706c3590583e6a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\da547af5415017a8c36caa42d3f34b9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\da547af5415017a8c36caa42d3f34b9a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1c2a7ff8b2701d6303782a7b60c74b8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\1c2a7ff8b2701d6303782a7b60c74b8d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c7926b308a9e7f5b7710a43ba7f8e46c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\c7926b308a9e7f5b7710a43ba7f8e46c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0d513566aa400104db088ca75117846d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\0d513566aa400104db088ca75117846d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\efc51d23883c37c982da82282348b6a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\efc51d23883c37c982da82282348b6a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c317f8d033f3e09469e0142e98b28407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\c317f8d033f3e09469e0142e98b28407\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b2651feb2232a570705a80c56a7c01db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b2651feb2232a570705a80c56a7c01db\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4c4ed0032bfa8ac33a27fdafa37fc7d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\4c4ed0032bfa8ac33a27fdafa37fc7d8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f36a0adde7a07f4e143c1a6af69f6fe2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\f36a0adde7a07f4e143c1a6af69f6fe2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\487ccae721794c2cc276abe28d7104d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\487ccae721794c2cc276abe28d7104d1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b0c5d8b4051b3b8eafe62bcc85c5f178\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\b0c5d8b4051b3b8eafe62bcc85c5f178\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d6eefab7c439555961a7738a4f23994d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d6eefab7c439555961a7738a4f23994d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e187a6eb742182af9a91e53711a57f05\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\HRV\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e187a6eb742182af9a91e53711a57f05\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\HRV\Documents\KasKu\app\src\main\AndroidManifest.xml

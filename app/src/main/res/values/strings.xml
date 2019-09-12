@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KasKu</string>
+    <string name="menu_kaspribadi">Kas Pribadi</string>
+    <string name="menu_kaskelompok">Kas Kelompok</string>
+    <string name="menu_barangimpian">Barang Impian</string>
+    <string name="menu_kalkulator">Kalkulator</string>
+</resources>
